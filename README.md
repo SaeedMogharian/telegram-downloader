@@ -30,8 +30,8 @@ A Python script to automatically download files from a Telegram channel.
 4. **Fill in your `.env` file:**
    ```env
    TELEGRAM_API_ID=your_actual_api_id
-   TELEGRAM_API_HASH=your_actual_api_hash
-   TELEGRAM_CHANNEL_USERNAME=@your_channel_username
+   TELEGRAM_API_HASH='your_actual_api_hash'
+   TELEGRAM_CHANNEL_USERNAME='@your_channel_username'
    TELEGRAM_DOWNLOAD_FOLDER=telegram_downloads
    ```
 
