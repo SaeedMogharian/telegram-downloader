@@ -1,0 +1,4 @@
+telegram_downloads/*
+*.session
+.env
+*.env.local
